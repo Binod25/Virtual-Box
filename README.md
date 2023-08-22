@@ -3,7 +3,7 @@ How to Install VirtualBox on Ubuntu 20.04 ?
 
 Install VirtualBox Using the APT Package Repository
 
-'sudo apt update'
+' sudo apt update '
 After updating the system’s APT cache repository, install VirtualBox using the command given below.
 'sudo apt install virtualbox'
 
