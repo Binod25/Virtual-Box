@@ -20,7 +20,9 @@ sudo apt install virtualbox-ext-pack -y
 In the VirtualBox Extension Pack Configuration window, read and accept the license by selecting “Ok.”
 
 Once the extension pack has been installed, you can start using VirtualBox by searching for “VirtualBox” in the “Applications” menu and clicking on the VirtualBox icon.
+
 or
+
 Type " virtualbox" in terminal.
 
 
