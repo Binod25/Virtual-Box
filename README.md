@@ -1,5 +1,5 @@
 # Virtual-Box
-## How to Install VirtualBox on Ubuntu 20.04 ?
+## How to Install VirtualBox on Ubuntu?
 
 Install VirtualBox Using the APT Package Repository
 
