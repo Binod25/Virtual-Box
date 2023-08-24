@@ -25,4 +25,14 @@ or
 
 Type " virtualbox" in terminal.
 
+### Install Ubuntu 20.04 on VirtualBox
 
+Download Ubuntu 20.04 LTS ISO image, visit the official release page of [Ubuntu 20.04 LTS](http://releases.ubuntu.com/20.04/)
+
+#### In this section, I am going to show you how to install Ubuntu 20.04 LTS in VirtualBox VM.
+
+First, open VirtualBox.
+
+Then, click on **Machine > New…**
+
+Now, type in a name for the VM, select **Linux** from the **Type** dropdown menu, and **Ubuntu (64-bit)** from the Version dropdown menu. Then, click on **Next >**.
